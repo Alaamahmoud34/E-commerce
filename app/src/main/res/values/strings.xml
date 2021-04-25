@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">E_Commerce</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_google_maps">Map</string>
+    <string-array name="Questions">
+        <item name="Question1">What is your username?</item>
+        <item name="Question2">What is your birthdate?</item>
+        <item name="Question3">What is your job?</item>
+    </string-array>
+</resources>
