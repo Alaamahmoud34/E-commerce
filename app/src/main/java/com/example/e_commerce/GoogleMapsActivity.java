@@ -216,8 +216,8 @@ public class GoogleMapsActivity extends FragmentActivity implements OnMapReadyCa
 
     private void send_message(String text)
     {
-        final String username="alaama7moud34@gmail.com";
-        final String password="Alaa01117960698";
+        final String username="example@gmail.com";
+        final String password="******";
         Properties props=new Properties();
         props.put("mail.smtp.auth","true");
         props.put("mail.smtp.starttls.enable","true");
